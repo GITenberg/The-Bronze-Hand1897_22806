@@ -1,0 +1,41 @@
+_repo: The-Bronze-Hand1897_22806
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Green, Anna Katharine
+    aliases:
+    - Rohlfs, Mrs. Charles
+    - Rohlfs, Anna Katharine Green
+    birthdate: 1846
+    deathdate: 1935
+    gutenberg_agent_id: '541'
+    url: http://www.gutenberg.org/2009/agents/541
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
+description: 'Anna Katharine Green (1846-1935) was an American poet and novelist.
+  She was one of the first writers of detective fiction in America and distinguished
+  herself by writing well plotted, legally accurate stories. She is credited with
+  shaping detective fiction into its classic form, and developing the series detective.
+  Her main character was detective Ebenezer Gryce of the New York Metropolitan Police
+  Force, but in three novels he is assisted by the nosy society spinster Amelia Butterworth,
+  the prototype for Miss Marple, Miss Silver and other creations. She also invented
+  the ''girl detective'': in the character of Violet Strange, a debutante with a secret
+  life as a sleuth.'
+gutenberg_issued: '2007-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22806'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'Jewelry theft -- Fiction'
+title: 'The Bronze Hand
+
+  1897'
+url: http://www.gutenberg.org/ebooks/22806
